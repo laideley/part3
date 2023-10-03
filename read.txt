@@ -4,3 +4,4 @@ Hello world
 Hello world
 Тренировочный проект для работы с Git.
 Hello world
+AFFFFFFFFFFAD
